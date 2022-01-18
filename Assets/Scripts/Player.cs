@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
     private Vector3 direction;
     public float gravity = -9.8f;
     public float strength = 5f;
+    //public GameManager gameManager;
 
     // Update is called once per frame
     private void Update()
